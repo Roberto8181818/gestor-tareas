@@ -1,6 +1,6 @@
 @extends('layouts.plantilla')
 
-@section('title','Crear categoría')
+@section('title','Crear tarea')
 
 @section('content')
     <h1>Aquí se crearán las tareas</h1>

@@ -10,4 +10,14 @@ class TareaController extends Controller
     public function Create() {
         return view('tareas.create');
     }
+    public function List() {
+        return view('tareas.list');
+    }
+    public function Edit() {
+        return view('tareas.edit');
+    }
+    public function Delete() {
+        return view('tareas.delete');
+    }
+
 }

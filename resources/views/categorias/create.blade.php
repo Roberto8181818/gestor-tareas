@@ -3,5 +3,5 @@
 @section('title','Crear categoría')
 
 @section('content')
-    <h1>Aquí se crearán las categorías</h1>
+    <h1>Aquí se crearán las categoríasssss</h1>
 @endsection
